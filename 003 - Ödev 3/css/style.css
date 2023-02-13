@@ -1,0 +1,15 @@
+body {
+  height: 1000px;
+}
+
+.icon-color {
+  color: #0a66c2 !important;
+}
+
+.bg-color {
+  background-color: #f3f2ef;
+}
+
+.img-margin {
+    margin-top: -55px;
+}
